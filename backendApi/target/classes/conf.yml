@@ -1,0 +1,6 @@
+inputFile: /Users/somyataneja/Downloads/codefoo.csv
+connectionUrl: jdbc:mysql://127.0.0.1:3306/ignTest
+userName: root
+password:
+driverClassName: com.mysql.jdbc.Driver
+commitSize: 100
