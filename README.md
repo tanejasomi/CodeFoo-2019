@@ -1,6 +1,4 @@
-#CodeFoo-2019
-
-Hi This is my application for CodeFoo 2019. First of all I want to thank you for wonderfull challenge. It was real fun and learning doing all these challenges. All the answers and code are in designated folders. 
+#CodeForFun
 
 Following is the list of task completed:
 Task1: Introduce yourself, explain your connection to IGN, and tell us why we should pick you to participate in IGN’s Code Foo program. Show your enthusiasm and passion for IGN in the form of a YouTube/Vimeo video, written document, audio track, or whatever format you feel most comfortable with.
