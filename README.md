@@ -19,9 +19,6 @@ Using this CSV, build a service to pull/read the content of the file, and store 
 Build a simple service you think would make sense that utilizes your database. Defend your proposals.
 
 
-Thanks
-Somya Taneja
-
 
 
 
